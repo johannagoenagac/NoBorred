@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/act_activity.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.21331521739130435" />
+        <entry key="app/src/main/res/layout/activity_toolbar.xml" value="0.12545289855072464" />
+        <entry key="app/src/main/res/layout/blue_activity.xml" value="0.24270833333333333" />
+        <entry key="app/src/main/res/layout/blue_fragment.xml" value="0.24270833333333333" />
+        <entry key="app/src/main/res/layout/contador_activity.xml" value="0.11955420466058764" />
+        <entry key="app/src/main/res/layout/fragment_activity.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/green_fragment.xml" value="0.24270833333333333" />
+        <entry key="app/src/main/res/layout/main_activity.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/main_activity_red.xml" value="0.24270833333333333" />
+        <entry key="app/src/main/res/layout/main_fragment.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/nav_activities.xml" value="0.25081024169921873" />
+        <entry key="app/src/main/res/layout/nav_activities_item.xml" value="0.15292205810546877" />
+        <entry key="app/src/main/res/layout/nav_activity.xml" value="0.24270833333333333" />
+        <entry key="app/src/main/res/layout/nav_blue_fragment.xml" value="0.24270833333333333" />
+        <entry key="app/src/main/res/layout/nav_green_fragment.xml" value="0.24270833333333333" />
+        <entry key="app/src/main/res/layout/red_activity.xml" value="0.24270833333333333" />
+        <entry key="app/src/main/res/layout/shared_pref_activity.xml" value="0.24270833333333333" />
+        <entry key="app/src/main/res/layout/suggestion.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/suggestion_toolbar.xml" value="0.12545289855072464" />
+        <entry key="app/src/main/res/layout/tyc_activity.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
